@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Lápis Faber",
+      "price": "66.55"
+    },
+    {
+      "name": "Caixa de Cerveja",
+      "price": "5.89",
+      "id": 3
+    },
+    {
+      "name": "Teste",
+      "price": 1,
+      "id": 4
+    },
+    {
+      "name": "Lápis faber castel",
+      "price": "999",
+      "id": 5
+    },
+    {
+      "name": "Redimi note 8 pro",
+      "price": "1540",
+      "id": 6
+    }
+  ]
+}
